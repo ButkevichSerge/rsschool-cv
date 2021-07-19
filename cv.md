@@ -1,14 +1,14 @@
 #CV#
-1.
+__1.__
 ***Butkevich Siarhei***
-2.
+__2.__
 **tel.:** *+375 29 168 60 71*
 __e-mail:__ _butkevich.serge@gmail.com_
-3.
+__3.__
 *I have a little experience in the layout of landing pages.*
-4.
+__4.__
 *I have a basic knowledge of html and css.*
-5.
+__5.__
 ```HTML and CSS
 <!DOCTYPE html>
 <html lang="ru">
@@ -95,9 +95,9 @@ body{
 </body>
 </html>
 ```
-6.
+__6.__
 *I have no experience in frontend development.*
-7.
+__7.__
 *Graduated from BNTU.*
-8.
+__8.__
 *I have a basic knowledge of English.*
